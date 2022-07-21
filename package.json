@@ -1,0 +1,24 @@
+{
+  "name": "ttni-web",
+  "version": "1.0.5",
+  "description": "get function name from stacktrace",
+  "main": "./dist/index.js",
+  "types": ".npm/dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitbbln/ttni-web.git"
+  },
+  "keywords": [],
+  "author": "bbln",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitbbln/ttni-web/issues"
+  },
+  "homepage": "https://github.com/gitbbln/ttni-web#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
