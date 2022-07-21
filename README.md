@@ -1,4 +1,4 @@
-# ttni 1.0.5
+# ttni-web 1.0.5
 
 get function name  from stacktrace
 
