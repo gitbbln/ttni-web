@@ -1,6 +1,6 @@
 {
   "name": "ttni-web",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "get function name from stacktrace for web",
   "main": "./dist/index.js",
   "types": ".npm/dist/index.d.ts",

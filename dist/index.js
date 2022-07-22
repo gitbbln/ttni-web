@@ -181,7 +181,7 @@ export class TTNI {
         for (let key in items) {
             item = items[key];
             if (item)
-                item = item.trim();
+                items[key] = items[key].trim();
         }
         return items;
     }
