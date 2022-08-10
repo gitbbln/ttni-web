@@ -7,7 +7,7 @@
     "outDir": "./dist",
     "strictPropertyInitialization": false,
     "moduleResolution": "node",
-    "esModuleInterop": true,
+    "esModuleInterop": false,
     "noEmitHelpers": true,
     "experimentalDecorators": true,
     "noImplicitAny": true,
